@@ -4,8 +4,8 @@ Analyzed faild login attempts and sorts them according to country of origin.
 Installation
 -------------
 First, you have to solve some dependencies.
-Install >fail2ban and >geoiplookup first.
-Now clone >atkalyzer and start the script as >root 
+Install ``` fail2ban ``` and ``` geoiplookup ``` first.
+Now clone ``` atkalyzer ``` and start the script as ``` root ``` 
 
 TODO
 ------
